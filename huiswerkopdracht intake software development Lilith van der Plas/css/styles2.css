@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: grey;
+    font-size: 80px;
+    font-family: fantasy;
+    }
+h2 {
+    text-align: center;
+    color: grey;
+    font-size: 40px;
+    font-family: fantasy;
+    }
+h3 {
+    text-align: center;
+    color: grey;
+    font-size: 30px;
+    font-family: fantasy;
+    }
+pre {
+    font-size: 20px;
+    color: grey;
+    font-family: fantasy;
+    }
+img {
+    float: left;
+    width: 300px;
+    height: 300px;
+    }
+a {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+    }
